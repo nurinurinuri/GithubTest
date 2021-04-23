@@ -1,0 +1,18 @@
+<프로젝트 생성 단계>
+
+1.프로젝트 생성 
+2.크롬브라우저에서 실행결과 확인
+3.톰캣서버 중지 후 Modules에서  경로 변경
+4.pom.xml 버전 변경 
+---자바버전 1.8로 변경 
+---스프링버전 5.0.7 로 변경
+---서블릿버전 javax.servlet-api
+    3.1.0 변경
+---자바버전 1.8 로 변경
+5.web.xml 새로운버전 붙여넣기
+	한글처리 필터 등록
+6.view 문자코드지정
+<%@ page contentType="text/html; charset=UTF-8" %>
+7.propertise-ProjectFactes-java체크-apply-runtimes-톰캣체크-apply
+8.톰캣연동 
+
