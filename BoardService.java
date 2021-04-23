@@ -9,8 +9,6 @@ public interface BoardService {
 	//글등록
 	void insertBoard(BoardVO vo);
 	
-	//글수정
-	void updateBoard(BoardVO vo);
 	
 	
 }
