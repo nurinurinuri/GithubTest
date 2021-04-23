@@ -10,4 +10,5 @@ public interface LessonMapper {
 	public int insertLesson(LessonVO param);
 	public int updateLesson(LessonVO param);
 	public int deleteLesson(int no);
+	// 수정 후
 }
